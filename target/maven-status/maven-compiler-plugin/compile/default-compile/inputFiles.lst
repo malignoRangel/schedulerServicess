@@ -1,0 +1,12 @@
+/home/maligno/eclipse-workspace/schedulerServices/src/main/java/com/schedulerServices/response/AgendaEmailResponse.java
+/home/maligno/eclipse-workspace/schedulerServices/src/main/java/com/schedulerServices/model/TareaModel.java
+/home/maligno/eclipse-workspace/schedulerServices/src/main/java/com/schedulerServices/repository/TareaRepository.java
+/home/maligno/eclipse-workspace/schedulerServices/src/main/java/com/schedulerServices/response/TareaResponse.java
+/home/maligno/eclipse-workspace/schedulerServices/src/main/java/com/schedulerServices/controller/SchedulerController.java
+/home/maligno/eclipse-workspace/schedulerServices/src/main/java/com/schedulerServices/repository/AgendaRepository.java
+/home/maligno/eclipse-workspace/schedulerServices/src/main/java/com/schedulerServices/response/AgendaResponse.java
+/home/maligno/eclipse-workspace/schedulerServices/src/main/java/com/schedulerServices/SchedulerServicesApplication.java
+/home/maligno/eclipse-workspace/schedulerServices/src/main/java/com/schedulerServices/request/AgendaRequest.java
+/home/maligno/eclipse-workspace/schedulerServices/src/main/java/com/schedulerServices/request/AgendaEmailRequest.java
+/home/maligno/eclipse-workspace/schedulerServices/src/main/java/com/schedulerServices/model/AgendaModel.java
+/home/maligno/eclipse-workspace/schedulerServices/src/main/java/com/schedulerServices/request/TareaRequest.java
